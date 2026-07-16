@@ -1,0 +1,6 @@
+{
+  "name": "Christantus Medical Consult",
+  "description": "Christantus Medical Consult is a modern pharmacy and healthcare provider offering genuine medicines, medical supplies, prescription services, healthcare consultations, wellness products, and professional pharmaceutical care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
